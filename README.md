@@ -1,4 +1,6 @@
-### Hi there 👋
+### Thank you for visiting!
+
+I am Thomas Say, and I have been programming for most of my life, from reading old books on BASIC as a kid, to coding Flash games in high school, to taking Java and C++ classes in community college, to helping maintain databases with PHP and SQL, to studying for a degree and aiming for a career as a web or software developer.
 
 <!--
 **tsay3/tsay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
